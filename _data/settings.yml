@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: MS Tours & Travels
-description: MS Tours & Travels
+title: MS Galaxy Tours & Travels
+description: MS Galaxy Tours & Travels
 email: budha.rocks@gmail.com
 
 #-------------------------------
@@ -11,7 +11,7 @@ email: budha.rocks@gmail.com
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Homepage for MS Tours & Travels'
+  description: 'Homepage for MS Galaxy Tours & Travels'
   rel-author: 'https://github.com/Slackd'
   rel-publisher: 'https://github.com/Slackd'
 
