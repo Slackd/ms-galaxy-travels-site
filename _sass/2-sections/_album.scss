@@ -44,8 +44,10 @@
 }
 
 .card-images {
-  width: 349px;
-  height: 225px;
+
+  max-width: auto;
+  max-height: auto;
+  position: relative;
 
 }
 
