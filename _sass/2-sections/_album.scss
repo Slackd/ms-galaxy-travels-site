@@ -10,7 +10,9 @@
 .jumbotron {
   background-image: url("../image/hero-main.jpg");
   background-size: cover;
+  background-position: center;
   height: 768px;
+  position: relative;
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
   margin-bottom: 0;
