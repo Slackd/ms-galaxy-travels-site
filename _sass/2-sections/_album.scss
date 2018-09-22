@@ -2,19 +2,13 @@
   --jumbotron-padding-y: 3rem;
 }
 
-.logo-site {
-  width: 26px;
-  height: 26px;
-
-}
-
 .main-hero {
   max-width: 100%;
   height: auto;
 }
 
 .jumbotron {
-  background-image: url('/image/hero-main.jpg');
+  background-image: url('image/hero-main.jpg');
   background-size: cover;
   height: 768px;
   padding-top: var(--jumbotron-padding-y);
@@ -39,6 +33,12 @@
 
 .jumbotron .container {
   max-width: 40rem;
+}
+
+.logo-site {
+  width: 26px;
+  height: 26px;
+
 }
 
 footer {
