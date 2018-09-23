@@ -2,6 +2,15 @@
   --jumbotron-padding-y: 3rem;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
 .main-hero {
   max-width: 100%;
   height: auto;
@@ -31,6 +40,7 @@
 
 .jumbotron-heading {
   font-weight: 300;
+  font-size: 2.5rem;
 }
 
 .jumbotron .container {
@@ -40,15 +50,22 @@
 .logo-site {
   width: 26px;
   height: 26px;
-
 }
 
 .card-images {
-
   max-width: auto;
   max-height: auto;
   position: relative;
+}
 
+.founders {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.headfounder {
+  padding-bottom: 1rem;
+  text-align: center;
 }
 
 footer {
@@ -56,6 +73,10 @@ footer {
   padding-bottom: 3rem;
 }
 
+.footer-main-c {
+  background-color: #E6E6FA;
+}
+
 footer p {
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
